@@ -24,7 +24,7 @@ The simulator models a following vehicle's real world physics: drag, rolling res
 ### Setup
 
 1. clone respirotory
-git clone https://github.com/shauryadesai-code/ecu-simulator.git
+git clone https://github.com/shauryadesai-code/Physics-Based-Adaptive-Cruise-Control-Simulator.git
 cd ecu simulator
 2. create and activate a virtual environment (recommended):
 python -m venv venv
